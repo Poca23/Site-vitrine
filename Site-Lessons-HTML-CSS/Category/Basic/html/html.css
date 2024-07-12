@@ -1,0 +1,36 @@
+.h1 {
+    font-weight: bolder;
+    font-style: italic;
+    text-align: center;
+}
+
+p {
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(255, 255, 255, 0.818);
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: justify;
+    border-radius: 2px;
+}
+
+.img1 {
+    width: 18%;
+    margin-left: 41%;
+
+}
+.img2{
+    width: 39%;
+    margin-left: 31%;
+
+}
+.img3 {
+    width: 40%;
+    margin-left: 31%;
+
+}
+.img4 {
+    width: 8%;
+    margin-left: 43%;
+
+}

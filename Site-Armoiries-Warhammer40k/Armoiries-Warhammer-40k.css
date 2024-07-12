@@ -1,0 +1,178 @@
+/* Armoiries Warhammer 40k */
+
+/* squelette */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style-type: none;
+  text-decoration: none;
+}
+
+/* header */
+header {
+  height: 50%;
+  width: 100%;
+  border-bottom: solid 1px white;
+}
+.header {
+  justify-content: space-around;
+  align-items: center;
+  background: linear-gradient(black, dodgerblue);
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+}
+.header-logo {
+  background: none;
+  border: none;
+  opacity: 0.8;
+}
+.header-titre {
+}
+.header-contact {
+}
+
+/* main */
+main {
+  width: 100%;
+  justify-content: space-around;
+  align-items: center;
+  background: linear-gradient(rgb(136, 14, 14), dodgerblue, rgb(136, 14, 14));
+  display: flex;
+  flex-direction: row;
+}
+.main {
+  background-color: rgba(255, 255, 255, 0.118);
+  padding: 2%;
+}
+.main-pitch {
+}
+.main-etapes {
+}
+.image-Gryph-charger {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+.brouilons-papiers-armoiries {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+.main-visuels {
+  display: flex;
+  flex-direction: column;
+}
+/* footer */
+footer {
+  height: 50%;
+  width: 100%;
+  border-top: solid 1px white;
+}
+.footer {
+  padding: 15px 5px 50px 5px;
+  justify-content: space-around;
+  flex-direction: row;
+  align-items: flex-start;
+  background: linear-gradient(dodgerblue, black);
+  display: flex;
+}
+.footer-contact {
+}
+.footer-resume {
+}
+.footer-partenaires {
+}
+
+/* typographie */
+h1 {
+  font-family: fantasy, sans serif;
+  font-size: 2em;
+  font-weight: 500;
+  font-style: normal;
+  letter-spacing: 0px;
+  word-spacing: 0px;
+  color: whitesmoke;
+}
+h2 {
+  font-family: fantasy, sans serif;
+  font-size: 2em;
+  font-weight: 500;
+  font-style: normal;
+  letter-spacing: 0px;
+  word-spacing: 0px;
+  color: white;
+}
+h3 {
+  font-family: fantasy, sans serif;
+  font-size: 1em;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: 0px;
+  word-spacing: 0px;
+  color: whitesmoke;
+}
+h4 {
+  font-family: fantasy, sans serif;
+  font-size: 01em;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: 0px;
+  word-spacing: 0px;
+  color: whitesmoke;
+}
+p {
+  font-family: "open sans", sans-serif;
+  font-size: 0.9em;
+  font-weight: 300;
+  font-style: normal;
+  letter-spacing: 0px;
+  word-spacing: 0px;
+  color: rgb(0, 0, 0);
+}
+a {
+  font-size: 1.1em;
+  color: rgb(0, 19, 142);
+  text-shadow: 0px 0px 1px white;
+}
+img {
+  filter: drop-shadow(0px 0px 3px whitesmoke);
+}
+/* liens */
+a {
+  cursor: pointer;
+  font-weight: 700;
+}
+li {
+  color: rgb(0, 0, 0);
+}
+/* boutons */
+button {
+}
+/* scroll*/
+.scroll {
+  width: 50px;
+  bottom: 5%;
+  right: 2%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  position: fixed;
+}
+/*top-button*/
+#scroll_to_top {
+}
+html {
+  scroll-behavior: smooth;
+}
+/*bottom-button*/
+#scroll_to_bottom {
+}
+html {
+  scroll-behavior: smooth;
+}

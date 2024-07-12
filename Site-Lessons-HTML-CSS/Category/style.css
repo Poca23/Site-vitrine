@@ -1,0 +1,87 @@
+* {
+   margin: 0;
+   padding: 0;
+   text-decoration: none;
+   list-style: none;
+   box-sizing: border-box;
+}
+body {
+   font-family: Inter;
+   font-size:20px;
+   width: 100%;
+   background-image: url('assets/Plage.jpg');
+   background-size: 100%;
+   background-attachment: fixed;
+   background-repeat:no-repeat;
+   height: 100vh;
+   position:sticky;
+}
+.Logo {
+   width: 4%;
+   opacity: 8%;
+   border-radius: 40px; 
+}
+.h1 {
+   font-style: italic;
+   color: rgba(240, 255, 255, 0.297);
+}     
+ 
+/*menu*/
+.menu {
+   top: 0;
+   left: 0; 
+   opacity: 85%;
+}
+
+/*sous-menu*/
+.menu > ul {
+   display: flex;
+   line-height: 23.54px;
+}
+.menu li a {
+   color: white;
+   padding: 20px;
+   display: flex;   
+}
+.has-sous-nav {
+   position: relative;
+}
+.sous-nav {
+   display: none;
+   font-size: 12px;
+   font-weight: bold;
+   position: absolute;
+   top: 64px;
+   left: 0;
+   background-color: black;
+   width:max-content;
+   line-height: 23.54px ;
+   opacity: 80%;
+}
+
+/*hover*/
+.sous-nav li a:hover {
+   background-color: rgba(89, 83, 83, 0.33);    
+}
+.has-sous-nav:hover .sous-nav {
+   display: flex;
+}
+
+/*top-button*/
+#scroll_to_top {
+   position: fixed;
+   width: 35px;
+   bottom: 2%;
+   right: 5%;
+   font-size: 15px;
+   text-align: justify;
+}
+
+#scroll_to_top img {
+   width: 60px;
+
+}
+
+html {
+   scroll-behavior: smooth;
+}

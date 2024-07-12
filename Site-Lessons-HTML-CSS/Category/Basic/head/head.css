@@ -1,0 +1,54 @@
+
+.h1 {
+    font-weight: bolder;
+    font-style: italic;
+    text-align: center;
+}
+
+p {
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align:justify;
+    background-color: rgba(255, 255, 255, 0.818);
+    border-radius: 2px;
+}
+
+
+.img1 {
+    width: 20%;
+    margin-left: 39%;
+    margin-right: 25%;
+
+}
+
+.img2 {
+    width:45%;
+    margin-left: 27%;
+
+}
+
+.img3 {
+    width:45%;
+    margin-left: 27%;
+
+}
+
+.img4 {
+    width: 33%;
+    margin-left: 30%;
+
+}
+
+.img5 {
+    width: 33%;
+    margin-left: 30%;
+
+}
+
+.img6 {
+    width: 10%;
+    margin-left: 40%;
+
+}
