@@ -1,0 +1,118 @@
+body {
+  background: url("../Fiche contact/assets/Image2.jpg") no-repeat;
+  background-size: cover;
+}
+
+.Logo {
+  width: 50%px;
+  height: 50%;
+  border-radius: 24px;
+  opacity: 1%;
+  z-index: -10px;
+  position: absolute;
+  left: 33%;
+  top: 25%;
+}
+
+.Contactez-nous {
+  width: 50%;
+  border: 2px solid;
+  border-radius: 15px;
+  padding: 1px 1px 1px 1px;
+  background: hwb(51 71% 15% / 0.187);
+  color: rgb(51, 44, 12);
+  text-align: center;
+  margin-left: 21.5%;
+  margin-top: 4%;
+  background-color: rgba(247, 235, 169, 0.251);
+  list-style: none;
+  text-decoration: none;
+  margin: auto;
+  padding: 0;
+}
+
+.Contactez-nous > h1 {
+  font-weight: 800;
+  text-align: center;
+  background-color: rgba(128, 90, 0, 0.12);
+  border-radius: 7px;
+  margin-top: 10%;
+}
+
+.Contactez-nous > h3 {
+  font-weight: 800;
+  text-align: center;
+}
+
+.Contactez-nous > h4 {
+  font-weight: 150;
+  font-style: italic;
+  text-align: center;
+}
+
+.form div {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  min-height: 83px;
+  margin-top: 25px;
+  border-radius: 6px;
+}
+
+.form div > label {
+  margin-bottom: 7px;
+  font-weight: 600;
+  border-radius: 6px;
+}
+
+.form div > input,
+form div > select,
+form div > textarea {
+  background: rgba(128, 90, 0, 0.12);
+  border: 5px;
+  border-radius: 7px;
+  font-size: 13px;
+  font-family: Verdana;
+  font-weight: 500;
+  box-shadow: 1px 1px 1px black;
+}
+
+.form div > input,
+form div > select {
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 1px;
+}
+
+.form div > input::placeholder,
+form div > textarea::placeholder {
+  background: rgba(255, 255, 255, 0.97);
+}
+
+.form div > select:invalid {
+  color: azure;
+}
+
+.form div > select option {
+  background-color: rgb(199, 193, 175);
+  color: black;
+}
+
+.form div:last-child {
+  align-items: left;
+  margin-top: 20px;
+}
+
+.form button {
+  width: 400px;
+  max-width: 500px;
+  min-width: none;
+  height: 60px;
+  font-weight: 600;
+  font-size: 28px;
+  background: wheat;
+  border: black;
+  border-radius: 3px;
+  box-shadow: 0px 4px 4px 0px;
+  color: black;
+}

@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "Site-Catalogue",
+			"path": "../Site-Catalogue"
+		}
+	],
+	"settings": {}
+}
