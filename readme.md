@@ -1,15 +1,15 @@
 <h1 align="center">Bonjour 👋 Bienvenue sur le GitHub de CND</h1>
 <h3 align="center">Une autodidacte en developpement web et web mobile, ainsi que web design</h3>
 
-- 🔭 Je travaille souvent sur : [mes cours](projet Lessons (bientôt public))
+- 🔭 Je travaille souvent sur : mes cours (bientôt public) et mes projets (bientôt public)
 
 - 🌱 Je peux travailler régulièrement sur : **HTML5, CSS3, JavaScript, Python, médias Query**
 
-- 👯 J'ai pu collaborer avec des professionnels dans le cadre de la création d'un site WordPress : [site Les Acteurs Anonymes](https://coursacteursanonymes.com/)
+- 👯 J'ai pu collaborer avec des professionnels dans le cadre de la création d'un site WordPress : site Les Acteurs Anonymes (https://coursacteursanonymes.com/)
 
-- Vous trouverez tous mes projets sur : [https://github.com/Poca23](https://github.com/Poca23)
+- Vous trouverez tous mes projets sur : https://github.com/Poca23
 
-- Tout mon parcours se trouve sur mon C.V régulièrement actualisé : [https://www.doyoubuzz.com/claire-naudin](https://www.doyoubuzz.com/claire-naudin)
+- Tout mon parcours se trouve sur mon C.V régulièrement actualisé : https://www.doyoubuzz.com/claire-naudin (https://www.doyoubuzz.com/claire-naudin)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
