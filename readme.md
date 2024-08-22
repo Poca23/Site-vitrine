@@ -9,7 +9,7 @@
 
 - Vous trouverez tous mes projets sur : https://github.com/Poca23
 
-- Tout mon parcours se trouve sur mon C.V régulièrement actualisé : https://www.doyoubuzz.com/claire-naudin (https://www.doyoubuzz.com/claire-naudin)
+- Tout mon parcours se trouve sur mon C.V régulièrement actualisé : https://www.doyoubuzz.com/claire-naudin
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
